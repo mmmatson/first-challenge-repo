@@ -17,12 +17,13 @@ N/A
 
 ![website with a header, figure, main, aside, and footer elements](assets/images/refactor-code-screenshot.png)
 
+[Deployed website] (https://mmmatson.github.io/refactor-code/)
+
 ## Credits
 
-Starter code and assets from: (https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NU-VIRT-FSF-PT-09-2022-U-LOLC/-/tree/main/)
+[Repository with starter code and assets] (https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NU-VIRT-FSF-PT-09-2022-U-LOLC/-/tree/main/)
 
 ## License
 
-Please refer to the LICENSE in the repo.
-
+No License.
 
